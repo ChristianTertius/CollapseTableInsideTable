@@ -19,7 +19,7 @@
         <th colspan="3"
           class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white text-center bg-slate-100">Pacar
         </th>
-        <th colspan="3" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white text-center">
+        <th colspan="2" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white text-center">
           Family</th>
       </tr>
       <tr>
